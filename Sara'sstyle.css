@@ -1,0 +1,6 @@
+a{
+color: deepskyblue;
+}
+body{
+    background: linear-gradient(to bottom, deepskyblue 50%, white 50%);
+}
